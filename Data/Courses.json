@@ -5,34 +5,34 @@
         "description":"HTML is the fundamental building block of every single website on the Internet and in this course I’ll teach you the basics from the ground up. Learn HTML!",
         "details":"In this course I’ll teach you HTML programming from the ground up.  If you’ve ever wanted to build web sites, this is the course for you.  HTML makes up every single website on the Internet.  You can’t become a front-end web developer without first learning HTML, and this course is all you’ll need.  I’ll start out teaching you basic HTML. You’ll learn:  – Intro and Sublime Text Editor  – What Is HTML  – HTML Page Structure  – Header Tags  – Paragraph Tags and Line Breaks  – PRE Tags  – Blockquote Tags  – Links in HTML  – Images in HTML  – HTML Lists (Ordered and Unordered)  – HTML Tables  – Advanced Tables  – Using CSS With HTML  Once we have the basics of HTML out of the way, we’ll learn about the Bootstrap CSS Framework:  – Intro To Bootstrap CSS Framework  – Installing Bootstrap  – Bootstrap Tables  – Bootstrap Navbars  – Bootstrap Cards  – Bootstrap Jumbotron  Bootstrap is one of the most popular CSS frameworks, millions of websites use it. It’s completely free and easy to use once you learn a few tricks of the trade!  Putting these two sections together will give you the skills you need to build just about any type of website you like.  Sign up today and let’s learn some HTML!" ,
         "img":"https://s3.us-east-2.amazonaws.com/upskill-school/html.svg",
-        "course": "19 Videos",
+        "video": "19 Videos",
        "time": "1.5 Hours",
         "Price": "$49",
-        "logo":""
+        "logo":"https://img.icons8.com/color/30/000000/html-5--v1.png"
     },
 
     {
         "id": 2,
         "name":"CSS",
-        "description":"Learn why CSS is amazing, not something to be afraid of! Use basic as well as advanced CSS features Flexbox, grid, animations, transitions, fonts, media queries and much more - it's all included!",
+        "description":"Learn why CSS is amazing, not something to be afraid of! Use basic as well as advanced CSS features Flexbox, grid, fonts, media queries and much more - it's all included!",
         "details":"Join this bestselling CSS course to learn all about CSS from the ground up, in great depth!  CSS - short for Cascading Style Sheets - is a programming language you use to turn your raw HTML pages into real beautiful websites.  This course covers it all - we start at the very basics (What is CSS? How does it work? How do you use it)? and gradually dive in deeper and deeper. And we do this by showing both practical examples as well as the theory behind it.  Getting started with CSS might look easy but there actually is a lot of depth to CSS - hence this course provides different Tracks or Entry points to exactly meet your demands and reflect you current knowledge level:  The Basics Track: Start from scratch, learn CSS from the ground up. You start with lecture 1 and simply follow through to the end.  The Advanced Track: You already know the CSS basics, you know what selectors are and how it works but you want to dive in deeper and learn some advanced features and usages.  The Expert Track: You got the advanced knowledge, too, but you want to dive into things like Flexbox, CSS Grid, CSS Variables or Sass. This track is for you.  Of course this course offers the theory and practical examples - we'll build an entire real course project throughout the course - but there also are multiple assignments, quizzes and challenges for you to practice individual concepts taught throughout the course.  Talking about the course project - we'll build the frontend (no backend) of a fictional web hosting company. We'll have a starting screen which has different sections, we got a responsive design with an animated side-drawer, we got modals and forms and in general we got a lot of CSS animations, font styles and more!  Here's what's inside the course in detail - this is all also applied to the mentioned course project:  The basics about selectors, combinators and how you set up styling rules in general  Properties, values and decalarations  How specifity and inheritance work and why it's called Cascading Style Sheets  Import" ,
         "img":"https://s3.us-east-2.amazonaws.com/upskill-school/css.svg",
-        "course": "25 Videos",
+        "video": "25 Videos",
        "time": "3 Hours",
         "Price": "$49",
-        "logo":""
+        "logo":"https://img.icons8.com/color/30/000000/css3.png"
     },
 
     {
         "id": 3,
-        "name":"Bootstrap 5",
+        "name":"Bootstrap",
         "description":"Bootstrap is hands-down the most popular CSS Framework in the world. Learn to build amazing looking websites quickly and easily with the free framework!",
         "details":"There’s a reason why Bootstrap is the MOST popular CSS Framework in the world, used by millions of websites all over the world!  The reason…it’s easy!   Bootstrap 4 allows you to build amazing looking websites quickly and easily, sometimes as easy as drag and drop!   HTML and CSS are the fundamental building block of the Internet. Using a front end web framework like Bootstrap can cut your web development time down drastically!   In this course I’ll show you how to use Bootstrap 4.1.1 from start to finish.  You don’t need any special skills or knowledge to start building great looking websites in minutes.  We’ll start out learning how to install and start using Bootstrap. Then we’ll learn about all of the Bootstrap Components. After that we’ll learn how to position things on a webpage using the Bootstrap grid system. Then we’ll learn how to use the Bootstrap Utilities.  Finally, we’ll build three websites using free templates that come with bootstrap. The first is a cool photo album website, the second is a simple one page landing page site, and the last one is a cool blog/business website template.  Aimed at the absolute beginner, this course is great for front end developers, back end developers, or even just hobbyists who want to learn to build cool websites!  See you inside!" ,
         "img":"https://s3.us-east-2.amazonaws.com/upskill-school/bootstrap.svg",
-        "course": "30 Videos",
+        "video": "30 Videos",
        "time": "4 Hours",
         "Price": "$49",
-        "logo":""
+        "logo":"https://img.icons8.com/color/30/000000/bootstrap.png"
     },
 
     {
@@ -41,10 +41,10 @@
         "description":"Javascript is essential for all front-end web development these days. In this course you’ll learn Javascript quickly and easily. See why it’s so popular today!",
         "details":"JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.  That's why you want to learn JavaScript too. And you came to the right place!    Why is this the right JavaScript course for you?  This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.  You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.  You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.  And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!  But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.  By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.    Why am I the right JavaScript teacher for you?  My name is Jonas, I'm an experienced web developer and designer, and one of Udemy's top instructors. I have been teaching this bestselling course since 2016 to over 400,000 developers, always listening to feedback and understanding exactly how students actually learn.  Recently, I took all my teaching experience to build thi" ,
         "img":"https://s3.us-east-2.amazonaws.com/upskill-school/javascript.svg",
-        "course": "19 Videos",
-       "time": "1.5 Hours",
-        "Price": "$49",
-        "logo":""
+        "video": "30 Videos",
+       "time": "60 Hours",
+        "Price": "$180",
+        "logo":"https://img.icons8.com/color/30/000000/javascript--v1.png"
     },
 
     {
@@ -53,10 +53,10 @@
         "description":"Node.js is one of the most popular web development tools today. It allows you to run Javascript on a server. Learn how to build websites with it today!",
         "details":"Have you tried to learn Node before? You start a new course, and the instructor has you installing a bunch of libraries before you even know what Node is or how it works. You eventually get stuck and reach out to the instructor, but you get no reply. You then close the course and never open it again.  Sound familiar?  I created this course to be what I wanted when I was learning Node.  The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB.  The entire course is based around a single goal: Turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications.  The best way to learn Node is by building Node apps.  From the very start you’ll be programming every project and working through challenges that I’ve designed to reinforce what you’ve learned. This will give you the hands-on experience necessary to be able to create and launch your own project once you’re done.  You’ll be building four projects:  1. A note-taking app to get your feet wet  2. A weather application that interacts with the MapBox and Dark Sky APIs  3. A task manager REST API complete with user accounts and authentication  4. A real-time chat app with a client-side companion  By the end, you’ll be able to take what you’ve learned and launch your own Node application.  When learning, learn the latest.  I work to keep this course full of the most up-to-date Node material out there. This course is compatible with the latest Node.js version.  You’re getting access to hot-off-the-press features.  Everything you need comes in one easy-to-use package.  You can stop worrying if you're learning the right skills to build an app or land a new job. I've curated all the tech that's essential to building real-world apps. I've mapped out everything in a comprehensive, easy-to-follow package designed to get you up and running in a few weeks.  There’s no better time to learn Node.  According to the 2016 Stack Overflow" ,
         "img":"https://s3.us-east-2.amazonaws.com/upskill-school/node.svg",
-        "course": "19 Videos",
+        "video": "19 Videos",
        "time": "1.5 Hours",
         "Price": "$49",
-        "logo":""
+        "logo":"https://img.icons8.com/color/30/000000/nodejs.png"
     },
 
     {
@@ -65,10 +65,10 @@
         "description":"Ruby Is One Of The Most Fun Programming Languages Out There And Now You Can Learn From Beginner to Advanced In An Easy To Follow Course.",
         "details":"In this course we’ll learn the Ruby programming language from an absolute Beginner level all the way to Advanced in no time at all!  This course is aimed at the absolute beginner, you don’t need any coding experience at all!  We’ll start out by setting up a free cloud development environment that has all the tools you need to start writing and running Ruby code.  Then, we’ll dive into very basic computer science concepts. Things like:  – Printing to the Screen – String Manipulation – Variables – Getting User Input – Simple Math – Comparison Operators – Assignment Operators  After that, we’ll move into more intermediate topics like:  – Conditional If/Else Statements – Arrays – While Loops – Each Loops – Hashes – Fizzbuzz  Finally we’ll finish up with more advanced topics like:  – Methods – Classes  Ruby is one of the greatest programming languages to learn, and learning has never been this easy!  Sign Up Today!" ,
         "img":"https://s3.us-east-2.amazonaws.com/upskill-school/rubyonrails.svg",
-        "course": "19 Videos",
-       "time": "1.5 Hours",
-        "Price": "$49",
-        "logo":""
+        "video": "24 Videos",
+       "time": "45 Hours",
+        "Price": "$100",
+        "logo":"https://img.icons8.com/color/30/000000/ruby-programming-language.png"
     },
 
     {
@@ -77,10 +77,10 @@
         "description":"Python Programming Is Super Popular These Days! In This Course You’ll Learn Python 3 From Beginner To Advanced In No Time At All. It’s a Lot Of Fun!",
         "details":"Become a Python Programmer and learn one of employer's most requested skills of 2022!  This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.  With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio!  Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more!  This course will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you!  We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered.  We cover a wide variety of topics, including:  Command Line Basics  Installing Python  Running Python Code  Strings  Lists   Dictionaries  Tuples  Sets  Number Data Types  Print Formatting  Functions  Scope  args/kwargs  Built-in Functions  Debugging and Error Handling  Modules  External Modules  Object Oriented Programming  Inheritance  Polymorphism  File I/O  Advanced Methods  Unit Tests  and much more!  You will get lifetime access to over 100 lectures plus corresponding Notebooks for the lectures!  This course comes with a 30 day money back guarantee! If you are not satisfied in any way, you'll get your money back. Plus you will keep access to the Notebooks as a thank you for trying out the course!  So what are you waiting for? Learn Python in a way that will advance your career and increase your knowledge, all in a fun and practical way!" ,
         "img":"https://i.ibb.co/SRWWcm1/jquery-svg-1.png",
-        "course": "19 Videos",
-       "time": "1.5 Hours",
-        "Price": "$49",
-        "logo":""
+        "video": "40 Videos",
+       "time": "70 Hours",
+        "Price": "$240",
+        "logo":"https://img.icons8.com/color/30/000000/python.png"
     },
 
     {
@@ -89,9 +89,9 @@
         "description":"PHP is one of the most popular programming languages of the Internet for a reason. Learn the PHP from beginner to Intermediate for Web Development today.",
         "details":"One of the biggest PHP Courses in UDEMY ........  Best Rated PHP course on UDEMY......  Over 90,000 Students taking this course already.........  BEST Reviewed PHP beginners course for a reason.....   Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal.  Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications.  Knowing PHP will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google.  There is no limit to what you can do with this knowledge. PHP is one of the most important web programming languages to learn, and knowing it, will give you SUPER POWERS in the web development world and job market place.  Why?  Because Millions of websites and applications (the majority) use PHP. You can find a job anywhere or even work on your own, online and in places like freelancer or Odesk. You can definitely make a substantial income once you learn it.    Some of my students reviews for this course and others  Holy cr*********  Readed some books about PHP but it was such boring that i never finished a book and withhold me from learning, this course helped me out straight.. After seeing a free tut on youtube i subscribed the course and jeez, i don't even need goals to get or stay motivated cause i have the instructor: Edwin Diaz, his way of teaching is friggin awesome (and fun) and easy listening! To be honest its keeping me away from bed xD.. I really really love the course. If i need to describe the course from my personal view, one word: Epic! Really looking forward for the stuff that will " ,
         "img":"https://i.ibb.co/jHrJfTQ/jquery-svg.png",
-        "course": "19 Videos",
-       "time": "1.5 Hours",
-        "Price": "$49",
-        "logo":""
+        "video": "30 Videos",
+       "time": "40 Hours",
+        "Price": "$150",
+        "logo":"https://img.icons8.com/color/30/000000/php.png"
     }
 ]

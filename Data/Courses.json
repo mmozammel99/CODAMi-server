@@ -57,41 +57,5 @@
        "time": "1.5 Hours",
         "Price": "$49",
         "logo":"https://img.icons8.com/color/40/000000/nodejs.png"
-    },
-
-    {
-        "id": 6,
-        "name":"Ruby",
-        "description":"Ruby Is One Of The Most Fun Programming Languages Out There And Now You Can Learn From Beginner to Advanced In An Easy To Follow Course.",
-        "details":"In this course we’ll learn the Ruby programming language from an absolute Beginner level all the way to Advanced in no time at all!  This course is aimed at the absolute beginner, you don’t need any coding experience at all!  We’ll start out by setting up a free cloud development environment that has all the tools you need to start writing and running Ruby code.  Then, we’ll dive into very basic computer science concepts. Things like:  – Printing to the Screen – String Manipulation – Variables – Getting User Input – Simple Math – Comparison Operators – Assignment Operators  After that, we’ll move into more intermediate topics like:  – Conditional If/Else Statements – Arrays – While Loops – Each Loops – Hashes – Fizzbuzz  Finally we’ll finish up with more advanced topics like:  – Methods – Classes  Ruby is one of the greatest programming languages to learn, and learning has never been this easy!  Sign Up Today!" ,
-        "img":"https://s3.us-east-2.amazonaws.com/upskill-school/rubyonrails.svg",
-        "video": "24 Videos",
-       "time": "45 Hours",
-        "Price": "$100",
-        "logo":"https://img.icons8.com/color/40/000000/ruby-programming-language.png"
-    },
-
-    {
-        "id": 7,
-        "name":"Python",
-        "description":"Python Programming Is Super Popular These Days! In This Course You’ll Learn Python 3 From Beginner To Advanced In No Time At All. It’s a Lot Of Fun!",
-        "details":"Become a Python Programmer and learn one of employer's most requested skills of 2022!  This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.  With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio!  Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more!  This course will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you!  We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered.  We cover a wide variety of topics, including:  Command Line Basics  Installing Python  Running Python Code  Strings  Lists   Dictionaries  Tuples  Sets  Number Data Types  Print Formatting  Functions  Scope  args/kwargs  Built-in Functions  Debugging and Error Handling  Modules  External Modules  Object Oriented Programming  Inheritance  Polymorphism  File I/O  Advanced Methods  Unit Tests  and much more!  You will get lifetime access to over 100 lectures plus corresponding Notebooks for the lectures!  This course comes with a 30 day money back guarantee! If you are not satisfied in any way, you'll get your money back. Plus you will keep access to the Notebooks as a thank you for trying out the course!  So what are you waiting for? Learn Python in a way that will advance your career and increase your knowledge, all in a fun and practical way!" ,
-        "img":"https://i.ibb.co/SRWWcm1/jquery-svg-1.png",
-        "video": "40 Videos",
-       "time": "70 Hours",
-        "Price": "$240",
-        "logo":"https://img.icons8.com/color/40/000000/python.png"
-    },
-
-    {
-        "id": 8,
-        "name":"PHP",
-        "description":"PHP is one of the most popular programming languages of the Internet for a reason. Learn the PHP from beginner to Intermediate for Web Development today.",
-        "details":"One of the biggest PHP Courses in UDEMY ........  Best Rated PHP course on UDEMY......  Over 90,000 Students taking this course already.........  BEST Reviewed PHP beginners course for a reason.....   Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal.  Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications.  Knowing PHP will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google.  There is no limit to what you can do with this knowledge. PHP is one of the most important web programming languages to learn, and knowing it, will give you SUPER POWERS in the web development world and job market place.  Why?  Because Millions of websites and applications (the majority) use PHP. You can find a job anywhere or even work on your own, online and in places like freelancer or Odesk. You can definitely make a substantial income once you learn it.    Some of my students reviews for this course and others  Holy cr*********  Readed some books about PHP but it was such boring that i never finished a book and withhold me from learning, this course helped me out straight.. After seeing a free tut on youtube i subscribed the course and jeez, i don't even need goals to get or stay motivated cause i have the instructor: Edwin Diaz, his way of teaching is friggin awesome (and fun) and easy listening! To be honest its keeping me away from bed xD.. I really really love the course. If i need to describe the course from my personal view, one word: Epic! Really looking forward for the stuff that will " ,
-        "img":"https://i.ibb.co/jHrJfTQ/jquery-svg.png",
-        "video": "30 Videos",
-       "time": "40 Hours",
-        "Price": "$150",
-        "logo":"https://img.icons8.com/color/40/000000/php.png"
     }
 ]

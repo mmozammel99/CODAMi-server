@@ -8,7 +8,7 @@
         "video": "19 Videos",
        "time": "1.5 Hours",
         "Price": "$49",
-        "logo":"https://img.icons8.com/color/30/000000/html-5--v1.png"
+        "logo":"https://img.icons8.com/color/40/000000/html-5--v1.png"
     },
 
     {
@@ -20,7 +20,7 @@
         "video": "25 Videos",
        "time": "3 Hours",
         "Price": "$49",
-        "logo":"https://img.icons8.com/color/30/000000/css3.png"
+        "logo":"https://img.icons8.com/color/40/000000/css3.png"
     },
 
     {
@@ -32,7 +32,7 @@
         "video": "30 Videos",
        "time": "4 Hours",
         "Price": "$49",
-        "logo":"https://img.icons8.com/color/30/000000/bootstrap.png"
+        "logo":"https://img.icons8.com/color/40/000000/bootstrap.png"
     },
 
     {
@@ -44,7 +44,7 @@
         "video": "30 Videos",
        "time": "60 Hours",
         "Price": "$180",
-        "logo":"https://img.icons8.com/color/30/000000/javascript--v1.png"
+        "logo":"https://img.icons8.com/color/40/000000/javascript--v1.png"
     },
 
     {
@@ -56,7 +56,7 @@
         "video": "19 Videos",
        "time": "1.5 Hours",
         "Price": "$49",
-        "logo":"https://img.icons8.com/color/30/000000/nodejs.png"
+        "logo":"https://img.icons8.com/color/40/000000/nodejs.png"
     },
 
     {
@@ -68,7 +68,7 @@
         "video": "24 Videos",
        "time": "45 Hours",
         "Price": "$100",
-        "logo":"https://img.icons8.com/color/30/000000/ruby-programming-language.png"
+        "logo":"https://img.icons8.com/color/40/000000/ruby-programming-language.png"
     },
 
     {
@@ -80,7 +80,7 @@
         "video": "40 Videos",
        "time": "70 Hours",
         "Price": "$240",
-        "logo":"https://img.icons8.com/color/30/000000/python.png"
+        "logo":"https://img.icons8.com/color/40/000000/python.png"
     },
 
     {
@@ -92,6 +92,6 @@
         "video": "30 Videos",
        "time": "40 Hours",
         "Price": "$150",
-        "logo":"https://img.icons8.com/color/30/000000/php.png"
+        "logo":"https://img.icons8.com/color/40/000000/php.png"
     }
 ]
